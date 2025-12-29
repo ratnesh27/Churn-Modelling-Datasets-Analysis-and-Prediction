@@ -23,4 +23,69 @@ Encoding Categorical Features (One-hot encoding)
 Feature Scaling ( to remove range bias)
 Data Exploration/ Analysis (Univariate & Numerical Analysis
 
+# Technologies Used
+1. Programming & Environment
 
+Python – core programming language
+
+Jupyter Notebook – interactive development and experimentation
+
+2. Data Handling & Analysis
+
+Pandas – data loading, cleaning, and manipulation
+
+NumPy – numerical computations
+
+3. Data Visualization
+
+Matplotlib – plotting and chart customization
+
+Seaborn – statistical data visualizations
+
+4. Machine Learning (Scikit-learn)
+
+Train-test split – train_test_split
+
+Models used:
+
+Logistic Regression
+
+Random Forest Classifier
+
+Gradient Boosting Classifier
+
+Support Vector Machine (SVC)
+
+Model tuning:
+
+GridSearchCV
+
+Evaluation metrics:
+
+Accuracy Score
+
+Classification Report (precision, recall, F1-score)
+
+5. Handling Imbalanced Data
+
+Imbalanced-learn (imblearn)
+
+SMOTE (Synthetic Minority Over-sampling Technique) – to balance churn vs non-churn classes
+
+6. Typical ML Workflow Implemented
+
+Data preprocessing
+
+Class imbalance handling
+
+Model training & comparison
+
+Hyperparameter tuning
+
+Performance evaluation
+
+# Author 
+Kumar Ratnesh - Initial work - (https://github.com/ratnesh27)
+
+# License 
+NA

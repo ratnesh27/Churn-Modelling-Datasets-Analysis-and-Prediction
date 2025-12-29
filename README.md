@@ -24,65 +24,26 @@ Feature Scaling ( to remove range bias)
 Data Exploration/ Analysis (Univariate & Numerical Analysis
 
 # Technologies Used
-1. Programming & Environment
 
-Python – core programming language
+1. Programming: Python, Jupyter Notebook 
 
-Jupyter Notebook – interactive development and experimentation
+2. Data Handling & Analysis: Pandas, NumPy 
 
-2. Data Handling & Analysis
+3. Data Visualization: Matplotlib, Seaborn 
 
-Pandas – data loading, cleaning, and manipulation
+4. Machine Learning (Scikit-learn, Train-test split – train_test_split)
 
-NumPy – numerical computations
+5. Models used:Logistic Regression, Random Forest Classifier, Gradient Boosting Classifier, Support Vector Machine (SVC)
 
-3. Data Visualization
+6. Model tuning: GridSearchCV
 
-Matplotlib – plotting and chart customization
+7. Evaluation metrics: Accuracy Score
 
-Seaborn – statistical data visualizations
+8. Classification Report (precision, recall, F1-score)
 
-4. Machine Learning (Scikit-learn)
+9. Handling Imbalanced Data: Imbalanced-learn (imblearn), SMOTE (Synthetic Minority Over-sampling Technique) – to balance churn vs non-churn classes
 
-Train-test split – train_test_split
-
-Models used:
-
-Logistic Regression
-
-Random Forest Classifier
-
-Gradient Boosting Classifier
-
-Support Vector Machine (SVC)
-
-Model tuning:
-
-GridSearchCV
-
-Evaluation metrics:
-
-Accuracy Score
-
-Classification Report (precision, recall, F1-score)
-
-5. Handling Imbalanced Data
-
-Imbalanced-learn (imblearn)
-
-SMOTE (Synthetic Minority Over-sampling Technique) – to balance churn vs non-churn classes
-
-6. Typical ML Workflow Implemented
-
-Data preprocessing
-
-Class imbalance handling
-
-Model training & comparison
-
-Hyperparameter tuning
-
-Performance evaluation
+10. Typical ML Workflow Implemented: Data preprocessing->Class imbalance handling->Model training & comparison->Hyperparameter tuning->Performance evaluation
 
 # Author 
 Kumar Ratnesh - Initial work - (https://github.com/ratnesh27)
